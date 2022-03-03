@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/lavingiasa/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="100" height="100">
 </a>
-<a href="https://venmo.com/u/lavingiasa">
+<a href="https://urlgeni.us/venmo/lavingiasa">
   <img src="https://cdn1.venmo.com/marketing/images/branding/venmo-icon.svg" width="100" height="100">
 </a>
 <a href="https://www.linkedin.com/in/lavingiasa/">
